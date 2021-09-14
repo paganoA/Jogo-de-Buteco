@@ -1,0 +1,19 @@
+C:\Users\ANACAROLINELEALPAGAN\Documents\Joguinho de Buteco\bin\Debug\net5.0-windows\Joguinho de Buteco.exe
+C:\Users\ANACAROLINELEALPAGAN\Documents\Joguinho de Buteco\bin\Debug\net5.0-windows\Joguinho de Buteco.deps.json
+C:\Users\ANACAROLINELEALPAGAN\Documents\Joguinho de Buteco\bin\Debug\net5.0-windows\Joguinho de Buteco.runtimeconfig.json
+C:\Users\ANACAROLINELEALPAGAN\Documents\Joguinho de Buteco\bin\Debug\net5.0-windows\Joguinho de Buteco.runtimeconfig.dev.json
+C:\Users\ANACAROLINELEALPAGAN\Documents\Joguinho de Buteco\bin\Debug\net5.0-windows\Joguinho de Buteco.dll
+C:\Users\ANACAROLINELEALPAGAN\Documents\Joguinho de Buteco\bin\Debug\net5.0-windows\ref\Joguinho de Buteco.dll
+C:\Users\ANACAROLINELEALPAGAN\Documents\Joguinho de Buteco\bin\Debug\net5.0-windows\Joguinho de Buteco.pdb
+C:\Users\ANACAROLINELEALPAGAN\Documents\Joguinho de Buteco\obj\Debug\net5.0-windows\Joguinho de Buteco.csproj.AssemblyReference.cache
+C:\Users\ANACAROLINELEALPAGAN\Documents\Joguinho de Buteco\obj\Debug\net5.0-windows\Joguinho_de_Buteco.Form1.resources
+C:\Users\ANACAROLINELEALPAGAN\Documents\Joguinho de Buteco\obj\Debug\net5.0-windows\Joguinho de Buteco.csproj.GenerateResource.cache
+C:\Users\ANACAROLINELEALPAGAN\Documents\Joguinho de Buteco\obj\Debug\net5.0-windows\Joguinho de Buteco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANACAROLINELEALPAGAN\Documents\Joguinho de Buteco\obj\Debug\net5.0-windows\Joguinho de Buteco.AssemblyInfoInputs.cache
+C:\Users\ANACAROLINELEALPAGAN\Documents\Joguinho de Buteco\obj\Debug\net5.0-windows\Joguinho de Buteco.AssemblyInfo.cs
+C:\Users\ANACAROLINELEALPAGAN\Documents\Joguinho de Buteco\obj\Debug\net5.0-windows\Joguinho de Buteco.csproj.CoreCompileInputs.cache
+C:\Users\ANACAROLINELEALPAGAN\Documents\Joguinho de Buteco\obj\Debug\net5.0-windows\Joguinho de Buteco.dll
+C:\Users\ANACAROLINELEALPAGAN\Documents\Joguinho de Buteco\obj\Debug\net5.0-windows\ref\Joguinho de Buteco.dll
+C:\Users\ANACAROLINELEALPAGAN\Documents\Joguinho de Buteco\obj\Debug\net5.0-windows\Joguinho de Buteco.pdb
+C:\Users\ANACAROLINELEALPAGAN\Documents\Joguinho de Buteco\obj\Debug\net5.0-windows\Joguinho de Buteco.genruntimeconfig.cache
+C:\Users\ANACAROLINELEALPAGAN\Documents\Joguinho de Buteco\obj\Debug\net5.0-windows\Joguinho_de_Buteco.Properties.Resources.resources
